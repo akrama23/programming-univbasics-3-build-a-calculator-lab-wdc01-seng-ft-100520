@@ -24,7 +24,7 @@ end
 
 def modulo(num1, num2)
   quotient= num1 / num2 
-  
+  quotient 
 
 end
 
