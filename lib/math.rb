@@ -24,7 +24,7 @@ end
 
 def modulo(num1, num2)
   divide = num1/num2 
-  divide.class
+  divide.to_s 
 end
 
 def square_root(num)
