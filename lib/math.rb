@@ -24,11 +24,11 @@ end
 
 def modulo(num1, num2)
   divide = num1/num2 
-  divide
+  divide.to_s 
 end
 
 def square_root(num)
-  root = Math.sqrt(num).to_s 
+  root = Math.sqrt(num)
   root 
 
 end
