@@ -17,8 +17,8 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  times= num1*num2 
-  times 
+  product= num1*num2 
+  product 
 
 end
 
@@ -29,5 +29,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
+  root = Math.sqrt(num)
+  root 
 
 end
+
